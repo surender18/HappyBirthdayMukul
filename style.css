@@ -52,7 +52,7 @@ h2,h1,h4{
     height: 400px;
     border: 6px solid yellow;
     border-radius: 10px;
-    background-image: url("Mukulimg.png");
+    background-image: url("bg.avif");
 }
 #img-happy:hover{
     background-image: url("tiJ.gif");
